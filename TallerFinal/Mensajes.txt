@@ -1,0 +1,12 @@
+Ha llegado el Carro con placa: XTH-234  L  
+Ha llegado el Carro con placa: rte-745  L  
+Ha llegado el Carro con placa: GTR-851  L  
+Ha llegado el Carro con placa: MGT-552  L  
+Ha llegado el Carro con placa: NMC-824  L  
+Ha llegado el Carro con placa: TYR-224  L  
+Ha llegado el Carro con placa: HYE-225  L  
+Ha llegado el Carro con placa: GUR-669  L  
+Ha llegado el Carro con placa: KLD-751  L  
+Ha llegado el Carro con placa: MTS-683  L  
+Ha llegado el Carro con placa: MSA-32  L  
+Ha salido el auto con placa:  WSA S 

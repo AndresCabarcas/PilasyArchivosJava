@@ -1,0 +1,15 @@
+1- precione el boton import para cargar los datos del archivo autos.txt 
+2- si lo desea agregue carros llenando los respectivos datos 
+y precionando el boton agregar.
+3-puede precionar el boton abrir archivo para ver los elementos del archivo al que fue
+copiado los elementos de auto.txt y el cual sera el usado para continuar con el 
+almacenamiento de los carros.
+4-Ver Pila para mostrar los elementos actuales en la pila.
+5-Movimientos abrira el archivo Movimientos.txt el cual maneja la entrada y salida
+de los carros con su numero de placa.
+6-Despachar para dar salida a un carro en el tope;se pediran las horas para dar el valor
+ total,el despachar de la parte derecha permitira dar salida a un carro por numero de placa.
+7-El boton log's mostrara el contenido de el archivo Mensajes.txt
+--------------------------------------------------------------------------------------
+Nota: en el lado inferior derecho saldra el primer y ultimo auto(placa)
+tambien la cantidad de autos y el limite, tambien si hay elementos o no

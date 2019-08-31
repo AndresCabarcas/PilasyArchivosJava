@@ -1,0 +1,2 @@
+>>El auto con placa 12323 ha Ingresado satisfactoriamente
+>>El auto con placa 12323 ha salido | Tuvo 0 movimiento(s)

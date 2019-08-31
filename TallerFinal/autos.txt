@@ -1,0 +1,11 @@
+﻿Dodge,XTH-234,auto
+Ford,rte-745,bus
+Toyota,GTR-851,camioneta
+Hyundai,WSA,camioneta
+Ford,MGT-552,bus
+Dacia,NMC-824,auto
+Mazda,TYR-224,camioneta
+BMW,HYE-225,auto
+Chevrolet,GUR-669,camion
+Chevrolet,KLD-751,bus
+Toyota,MTS-683,camioneta
